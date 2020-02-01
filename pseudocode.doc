@@ -1,0 +1,9 @@
+create boxes
+
+<div 
+
+id="calendar-row1" class="row justify-content-md-center border-top border-bottom calendar-row">
+      <div id="time1"class="col-md-1">8 AM</div>
+      <textarea rows="3" id="text-entry1" class="col-md-10"></textarea>
+      <button id="save" class="col-md-1"><i class="far fa-save"></i></button>
+    </div>
